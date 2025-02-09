@@ -1,0 +1,26 @@
+/* index.css */
+
+/* body {
+    background-color: #f0f8ff;   
+} */
+
+h1{
+    font-size: 48px;
+    color: #2c3e50;
+    text-align: center;
+    margin: 40px 0;
+}
+
+ul{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+li{
+    font-size: 22px;
+    color: #34495e;
+    margin: 10px 0;
+}
+

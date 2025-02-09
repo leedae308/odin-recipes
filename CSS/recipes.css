@@ -1,0 +1,35 @@
+/* recipes.css */
+
+h1{
+    background-color: #ffffff;
+    color: #2c3e50;
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+}
+
+h3{
+    background-color: #f7f9fc;
+    font-size: 28px;
+    color: #2980b9; 
+    font-family: Arial, sans-serif;
+}
+.description{
+    font-size: 16px;
+    color: #7f7c7d;
+    background-color: #f0f0f0;
+    font-style: italic;
+    line-height: 1.5;
+    font-weight: 800;
+}
+
+p{
+    background-color: #f9f9f9;
+    font-size: 18px;
+    color: #34495e;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+body{
+    background-image: linear-gradient(#f0f8ff, #e6f7ff);
+}
