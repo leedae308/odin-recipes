@@ -13,14 +13,16 @@ h1{
 
 ul{
     background-color: #ffffff;
-    padding: 20px;
+    padding: 40px 40px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    margin: 20px auto;
+    width: 400px
 }
 
 li{
-    font-size: 22px;
+    font-size: 25px;
     color: #34495e;
-    margin: 10px 0;
+    margin: 20px;
 }
 
